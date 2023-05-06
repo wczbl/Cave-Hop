@@ -1,2 +1,2 @@
-# Cave-Hop
-A platformer game that uses previous techniques
+# Cave Hop
+This is the first time I decided to make a game combining previous techniques I've learned. There's not much to say except for that this Platformer has puzzle elements. Also, I am not going to use this scaleDraw method ever again, at least for now because it's an odd method. Either way, it's open source because I think this is by far the worst game I've made, graphically. The gameplay is alright, though. I am also very aware of the hoppers being able to jump inside of each other, and I might fix that later on. 
